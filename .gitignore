@@ -1,0 +1,11 @@
+# ignore Google Cloud API auth tokens
+token.json
+
+.ipynb_checkpoints/
+__pycache__/
+
+
+
+
+
+
