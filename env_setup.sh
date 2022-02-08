@@ -6,6 +6,9 @@ pip install --upgrade pip
 
 pip install google-auth-oauthlib \
             google-cloud-vision \
+            ipykernel \
+            notebook \
             opencv-python \
             pytesseract \
+            scipy \
             
