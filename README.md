@@ -20,3 +20,4 @@ To test it run `pytest test` - it performs 7 requests to the Cloud Vision Api. R
 
 ## Example notebook
 
+[Example of parsing png](ipython/example.ipynb)
