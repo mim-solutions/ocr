@@ -6,9 +6,15 @@ Small library for OCR using tesseract and Google cloud vision
 
 ## Installation and dependencies
 
-Necessary libraries are installed by the bash file `bash env_setup.sh`.
+### Installing tesseract
 
-## Google vision credentials
+First, tesseract must be installed by `sudo apt install tesseract-ocr` and `sudo apt install tesseract-ocr-pol`.
+
+### Necessary python libraries
+
+Necessary libraries are installed by running the bash file `bash env_setup.sh`. 
+
+### Google vision credentials
 
 To use Google Vision OCR, which is a paid feature, it is required to save JSON file with credentials as `.creds/secrets.json`.
 
